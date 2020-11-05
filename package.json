@@ -1,0 +1,30 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "Node gyorstalpalo tanfolyam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/14Szoftverfejleszto/Node_Crash_Course.git"
+  },
+  "keywords": [
+    "Node",
+    "gyorstalpalo",
+    "tanfolyam"
+  ],
+  "author": "14 Szoftverfejleszto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/14Szoftverfejleszto/Node_Crash_Course/issues"
+  },
+  "homepage": "https://github.com/14Szoftverfejleszto/Node_Crash_Course#readme",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
